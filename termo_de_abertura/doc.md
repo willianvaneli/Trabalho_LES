@@ -15,4 +15,8 @@ Disponibilizar um aplicativo mobile gis de alta performance e fácil uso, atende
 Acelerar o processo de cadastramento de campo.
 
 
-Critérios de sucesso
+## Critérios de sucesso
+
+- Com esta aplicação, espera-se diminuição do tempo de cadastro em 50%.
+- Eliminação da despadronização de dados.
+- Diminuição de 90% do tempo gasto ao subir os dados para o sistema principal.
