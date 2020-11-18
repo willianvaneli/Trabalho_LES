@@ -12,12 +12,13 @@ Este trabalho trata sobre como facilitar, agilizar e aumentar a confiabilidade d
 
 
 ## Documentação
-- Termo de abertura
-- User stories
+- [Termo de abertura](https://github.com/willianvaneli/Trabalho_LES/blob/main/termo_de_abertura/doc.md)
+- [User stories](https://docs.google.com/document/d/1PsdaMR4ZuH6ZZm2Rc7y_iNUaZ7uzuSBKEJn5D1_53fc/edit?usp=sharing)
 - Story maps
 - Product Backlog
-- Documento técnico
+- [Documento técnico](https://docs.google.com/document/d/1rP1YjfiRDDbinOPkBE0dPYNf_n82kXd6fLuzBP5p-QA/edit?usp=sharing)
 - Apresentação do trabalho
 - Protótipo
 
 ## Repositório do projeto
+[Sig Mobile](https://github.com/Hiparc/CadastroMobile)
