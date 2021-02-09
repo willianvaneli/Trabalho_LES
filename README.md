@@ -14,7 +14,7 @@ Este trabalho trata sobre como facilitar, agilizar e aumentar a confiabilidade d
 ## Documentação
 - [Termo de abertura](https://github.com/willianvaneli/Trabalho_LES/blob/main/termo_de_abertura/doc.md)
 - [User stories](https://docs.google.com/document/d/1PsdaMR4ZuH6ZZm2Rc7y_iNUaZ7uzuSBKEJn5D1_53fc/edit?usp=sharing)
-- [Story maps](https://app.mural.co/t/hiparc5591/m/hiparc5591/1605713507572/47b03bbf8215542160f3342f8149eb2e9cda1589)
+- [Story maps](https://drive.google.com/file/d/1lGhzbmO2k0kRs-NQUepfA-enaUP0mtRY/view?usp=sharing)
 - [Product Backlog](https://trello.com/b/bHfYg0Z5/sig-mobile)
 - [Documento técnico](https://docs.google.com/document/d/1rP1YjfiRDDbinOPkBE0dPYNf_n82kXd6fLuzBP5p-QA/edit?usp=sharing)
 - Apresentação do trabalho
