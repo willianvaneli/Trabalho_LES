@@ -28,6 +28,7 @@ Este trabalho trata sobre como facilitar, agilizar e aumentar a confiabilidade d
 - [Documento técnico](https://docs.google.com/document/d/1rP1YjfiRDDbinOPkBE0dPYNf_n82kXd6fLuzBP5p-QA/edit?usp=sharing)
 - Apresentação do trabalho
 - [Protótipo](https://www.figma.com/file/Pi6xNJvzsuAn6l8DbZSqjr/App-Cadastro?node-id=0%3A1)
+- [Modelo Conceitual](https://drive.google.com/file/d/12L_sdsufabn5tl2Hsqctq4SKhwGiLYMd/view?usp=sharing)
 
 ## Repositório do projeto
 [Sig Mobile](https://github.com/willianvaneli/Trabalho_LES)
