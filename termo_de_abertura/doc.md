@@ -6,6 +6,15 @@ SigMobile
 
 Agilizar o processo do cadastro de campo durante atualização das informações do cadastro multifinalitário.
 
+## Objetivos específicos
+
+- Desenvolver um sistema mobile para facilitar o cadastro em campo.
+- Desenvolver um módulo capaz de guardar as informações e transmitir ao servidor posteriormente utilizando web socket.
+- Aplicar banco sqlite em conjunto com sua extensão espacial spatialite.
+- Aplicar utilização de geometrias espaciais sobre mapa.
+- Aplicar o armazenamento e upload de imagem para registro fotográfico das parcelas.
+
+
 ## Justificativa
 
 O projeto se originou através de uma oportunidade onde o municipio de Serra-ES abriu uma licitação para obtenção de imagens aéreas juntamente com um sistema SIG que facilitasse o cadastro e atualização cadastral de unidades imobiliárias.
@@ -34,6 +43,11 @@ Disponibilizar um aplicativo mobile gis de alta performance e fácil uso, atende
 
 Acelerar o processo de cadastramento de campo.
 
+## Stakeholders
+
+- Município da Serra: Se beneficiará com diminuição no tempo de cadastro, padronização da informação e diminuição de retrabalho. Colabora com o financiamento do projeto além de ceder informações pertinentes ao mesmo.
+- Cadastradores: Trabalham junto com os desenvolvedores para criar um APP fácil de usar, ajuda nos testes e trás demandas que o processo de cadastro anterior não cobria.
+- Desenvolvedores: Mantém a comunicação e cooperação com os cadastradores e prefeitura.
 
 ## Critérios de sucesso
 
