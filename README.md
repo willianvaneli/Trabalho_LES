@@ -47,7 +47,10 @@ Este trabalho trata sobre como facilitar, agilizar e aumentar a confiabilidade d
 - [Product Backlog](https://docs.google.com/spreadsheets/d/1ozhkOcWKKoGTP7LBUkhhRfZdhoEy7cZwavuYu5cBb6U/edit?usp=sharing)
 - [Sprint Backlog](https://drive.google.com/file/d/1kzIXyvfdLDWHbk-RrIaLMQaiR10kVcdj/view?usp=sharing)
 - [Documento técnico](https://docs.google.com/document/d/1rP1YjfiRDDbinOPkBE0dPYNf_n82kXd6fLuzBP5p-QA/edit?usp=sharing)
-- Apresentação do trabalho
+- [Apresentação do trabalho - Termo de abertura](https://youtu.be/DxXvbromISA)
+- [Apresentação do trabalho](https://youtu.be/-lK84b7tC-4)
+- [Apresentação do trabalho Modelo conceitual, lógico e projeto de dados](https://youtu.be/lojBq7NHds4)
+- [Apresentação do trabalho Execução sprint 2](https://youtu.be/Y2zGoMaQId0)
 - [Protótipo](https://www.figma.com/file/Pi6xNJvzsuAn6l8DbZSqjr/App-Cadastro?node-id=0%3A1)
 - [Modelo Conceitual](https://drive.google.com/file/d/1gLjto7uZ-YyAvnaw9_mIfmtxWo_lJJsQ/view?usp=sharing)
 - [Modelo lógico](https://drive.google.com/file/d/1om9wBxZ61sLPYpwA6FzecKYahepG9s-6/view?usp=sharing)
