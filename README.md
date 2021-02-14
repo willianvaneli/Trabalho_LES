@@ -17,7 +17,7 @@ Este trabalho trata sobre como facilitar, agilizar e aumentar a confiabilidade d
 - [Story maps](https://drive.google.com/file/d/1lGhzbmO2k0kRs-NQUepfA-enaUP0mtRY/view?usp=sharing)
 - [Product Backlog](https://trello.com/b/bHfYg0Z5/sig-mobile)
 - [Documento técnico](https://docs.google.com/document/d/1rP1YjfiRDDbinOPkBE0dPYNf_n82kXd6fLuzBP5p-QA/edit?usp=sharing)
-- Apresentação do trabalho
+- [Apresentação do trabalho](https://youtu.be/DxXvbromISA)
 - [Protótipo](https://www.figma.com/file/Pi6xNJvzsuAn6l8DbZSqjr/App-Cadastro?node-id=0%3A1)
 - [Log do controle de versão](https://github.com/willianvaneli/Trabalho_LES)
 
