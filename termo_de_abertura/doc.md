@@ -51,6 +51,15 @@ Acelerar o processo de cadastramento de campo.
 
 ## Critérios de sucesso
 
-- Com esta aplicação, espera-se diminuição do tempo de cadastro em 50%.
-- Eliminação da despadronização de dados.
-- Diminuição de 90% do tempo gasto ao subir os dados para o sistema principal.
+- O projeto será considerado um sucesso se conseguir atender todas entregas no prazo.
+- O cronograma deve seguir o product backlog.
+- o projeto não deve consumir mais recursos que o previsto
+
+
+
+
+
+Alterações no arquivo
+|Alteração|Data Alteração|
+|---------|--------------|
+|Correção critérios de sucesso | 08-03-21 |
