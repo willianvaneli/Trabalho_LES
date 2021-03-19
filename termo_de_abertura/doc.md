@@ -20,3 +20,9 @@ Acelerar o processo de cadastramento de campo.
 - Com esta aplicação, espera-se diminuição do tempo de cadastro em 50%.
 - Eliminação da despadronização de dados.
 - Diminuição de 90% do tempo gasto ao subir os dados para o sistema principal.
+
+## Stackholders
+
+- Prefeitura da serra - Cliente
+- Willian Vaneli - Desenvolvedor
+
